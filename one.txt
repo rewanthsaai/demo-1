@@ -16,3 +16,25 @@ git commands
 	cat two.txt
 
 
+
+     git branch
+
+                  git checkout
+		   
+		              vi one.txt
+
+			                git add one.txt
+
+					              git commit -m 
+
+                                                                   git push origin task-1 
+
+								                          
+							git branch 
+						
+					git checkout master
+
+			git merge task-1
+
+
+						   
