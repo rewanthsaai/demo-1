@@ -1,0 +1,18 @@
+
+git 
+   
+    remote
+      
+           add 
+	    
+	       origin 
+
+	              <url>
+		   
+		   git
+    
+         commands 
+
+git fetch
+
+
