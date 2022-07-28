@@ -1,0 +1,18 @@
+
+git commands
+
+         git init
+	      
+                git clone 
+
+	touch .txt
+	     
+	          cat>one.txt
+		   
+	cat one.txt
+
+	           cat>two.txt
+
+	cat two.txt
+
+
