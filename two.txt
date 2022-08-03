@@ -16,3 +16,24 @@ git
 git fetch
 
 
+
+git brach <branch name>
+
+                      git checkout task-2 
+		        
+			                 vi two.txt 
+					            
+						    git add two.txt 
+
+						                   git commit -m "" 
+
+								                git push origin task-2 
+
+										                      git branch 
+												       
+												                git checkout master 
+
+														                   git merge task-2
+																    
+
+
